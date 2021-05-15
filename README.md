@@ -10,5 +10,6 @@ Auto LP and Reflect BEP20 Token contract.
 5% fee auto add to the liquidity pool and locked forever when selling. 
 5% fee auto distribute to all holders.
    
-https://punishiba.gg
-https://t.me/punishibainu
+Site: https://punishiba.gg
+
+Telegram: https://t.me/punishibainu
